@@ -6,6 +6,7 @@
  
  🌱 I’m currently learning about Data Science
 
+ ![Kritsana Prasit](https://scontent.fubp1-1.fna.fbcdn.net/v/t1.0-9/39514812_1887763724651795_7432823097687801856_n.jpg?_nc_cat=109&_nc_sid=8bfeb9&_nc_eui2=AeG4mce0qV9utgpiEsO4Ke0alMh1dVLxqWyUyHV1UvGpbDmh9hX404T0kaDpYGUfvtnUmkz--1J4v8Kolw4BNNhw&_nc_ohc=yYQSMMWWQfUAX-qF8BP&_nc_ht=scontent.fubp1-1.fna&oh=2a068920ac1adcc833361039ae69215b&oe=5F5B669D)
 <!--
 **kritsanapr60/kritsanapr60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
