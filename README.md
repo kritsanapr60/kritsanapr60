@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ 🔭 I’m currently working on Freelance 
+ 🌱 I’m currently learning about Data Science
 <!--
 **kritsanapr60/kritsanapr60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
