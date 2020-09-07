@@ -18,7 +18,6 @@ Skills: Python / Angular / JS / HTML / CSS / React / Firebase / PHP / Laravel / 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/kritsanapr60&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/kritsanapr60)  
 
 <!--- ### Hi there 👋
 
